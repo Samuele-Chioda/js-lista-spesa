@@ -5,3 +5,4 @@ Data una lista della spesa, stampare sulla pagina (anche brutalmente, basta che 
 Consigli:
 Ricordiamoci di inizializzare la variabile di contatore prima dell'inizio del ciclo while
 Ricordiamoci di incrementare il contatore, o comunque di inserire una condizione di uscita, all'interno ciclo while
+
